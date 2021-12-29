@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>Dhaka</item>
+        <item>Khulna</item>
+        <item>Chittagong</item>
+        <item>Coxs Bazar</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>London</item>
+        <item>Kolkata</item>
+        <item>Riyadh</item>
+        <item>Abu Dhabi</item>
+        <item>New York</item>
+        <item>Tokyo</item>
+        <item>Islamabad</item>
+        <item>New Delhi</item>
+    </string-array>
+</resources>

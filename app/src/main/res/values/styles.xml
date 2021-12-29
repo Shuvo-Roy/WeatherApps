@@ -1,0 +1,19 @@
+<resources>
+
+    <!--    &lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <!--    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">-->
+    <!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--        <item name="colorPrimary">@color/colorPrimary</item>-->
+    <!--        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+    <!--        <item name="colorAccent">@color/colorAccent</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="LabelStyle" parent="TextAppearance.MaterialComponents.Body1">-->
+    <!--        <item name="android:textColor">@color/gray</item>-->
+    <!--    </style>-->
+
+    <!--    <style name="DefaultTextStyle" parent="TextAppearance.MaterialComponents.Body1">-->
+
+    <!--    </style>-->
+
+</resources>

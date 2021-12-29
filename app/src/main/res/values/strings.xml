@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApps</string>
+    <string name="degree_celsius_symbol">°C</string>
+    <string name="degree_fahrenheit_symbol">°F</string>
+    <string name="description_weather_condition_icon">weather condition icon</string>
+    <string name="label_humidity">আর্দ্রতা</string>
+    <string name="label_pressure">বায়ু চাপ</string>
+    <string name="label_visibility">দৃষ্টিসীমা</string>
+    <string name="label_sunrise">সূর্যোদয়</string>
+    <string name="label_sunset">সূর্যাস্ত</string>
+    <string name="view_weather">View Weather</string>
+    <string name="current_location">Current Location</string>
+    <string name="sampleLongitude">-89.52229</string>
+    <string name="longitude">Longitude</string>
+    <string name="sampleLatitude">32.03349</string>
+    <string name="latitude">Latitude</string>
+    <string name="location">Location</string>
+    <string name="todo">TODO</string>
+    <string name="thirtythree">33</string>
+</resources>
