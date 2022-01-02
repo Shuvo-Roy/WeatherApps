@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="city">
+        <item>New York</item>
         <item>Dhaka</item>
         <item>Khulna</item>
         <item>Chittagong</item>
@@ -12,7 +13,6 @@
         <item>Kolkata</item>
         <item>Riyadh</item>
         <item>Abu Dhabi</item>
-        <item>New York</item>
         <item>Tokyo</item>
         <item>Islamabad</item>
         <item>New Delhi</item>
